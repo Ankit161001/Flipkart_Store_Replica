@@ -7,3 +7,6 @@ In the product description page the "Add to Cart" and "Buy Now" buttons on click
 <br>
 <br>
 ![Screenshot (1358)](https://user-images.githubusercontent.com/61089784/128533051-89f93ff6-27a2-45ac-8235-34c16eacb870.png)
+<br>
+<br>
+![Screenshot (1359)](https://user-images.githubusercontent.com/61089784/128533361-ad163833-017d-49ff-a385-cee02d506753.png)
